@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0B0D0B</color>
+    <color name="dark_surface">#151915</color>
+    <color name="lime">#B7FF00</color>
+    <color name="lime_dark">#91CC00</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Semantic Light Mode Colors -->
+    <color name="bg_main">#F4F6F4</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="card_border">#E2E8F0</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="button_lime_bg">#B7FF00</color>
+    <color name="button_lime_text">#0B0D0B</color>
+    <color name="outline_border">#84CC00</color>
+    <color name="outline_text">#3F6E00</color>
+    <color name="header_subtitle">#4D7A00</color>
+</resources>

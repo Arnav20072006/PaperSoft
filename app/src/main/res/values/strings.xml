@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PaperSoft</string>
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="pdf_filename_label">PDF FILENAME</string>
+    <string name="pdf_filename_hint">Enter filename (e.g. MyDocument)</string>
+</resources>
