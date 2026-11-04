@@ -71,9 +71,9 @@ The main activity currently handles image selection, ordering, PDF generation, t
 
 These are potential areas for future improvement, not claims of completed fixes.
 
-## Collaboration and attribution
+## Ownership and attribution
 
-PaperSoft was developed as a **collaborative academic project**. The codebase is shared here for portfolio and learning purposes. Contributions should be attributed accurately; being a repository owner or collaborator does not imply sole authorship.
+PaperSoft was originally developed as a collaborative academic project. **Arnav Chauhan** is now its sole owner and maintainer, with the original teammate's permission to continue and maintain the project independently. The project history remains collaborative; current ownership does not imply sole authorship of the original implementation.
 
 ## Project status
 
